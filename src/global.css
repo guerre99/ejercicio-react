@@ -1,0 +1,9 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #084f85;
+  color: #f2f2f2;
+}
+
+.form-control {
+  width: 30%;
+}
